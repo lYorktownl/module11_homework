@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@jest/globals": "^27.0.6",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
